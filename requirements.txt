@@ -1,0 +1,6 @@
+openai==0.28.1
+langchain
+pinecone-client
+python-dotenv
+tiktoken
+jupyterlab
